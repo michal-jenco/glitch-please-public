@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last updated: February 2026*
+*Last updated: February 23rd 2026*
 
 This Privacy Policy applies to the Android application **Glitch Please!** (package name: `com.michaljenco.glitchplease`), developed by Michal Jenčo.
 
